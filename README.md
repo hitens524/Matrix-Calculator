@@ -1,1 +1,2 @@
 # Matrix-Calculator
+Developed a desktop-based GUI application for performing a wide range of matrix operations, including addition, subtraction, multiplication, transpose, scalar multiplication, exponentiation, determinant, adjoint, inverse, diagonal sum, minors and cofactors, symmetry checks, and area of a triangle using coordinate matrices. Designed with an intuitive interface for easy matrix input and clear result display, the application ensures user-friendly interaction and robust error handling.
